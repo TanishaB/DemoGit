@@ -1,6 +1,8 @@
 public class abc{
 	public static void main(String args[]){
 		
-		System.out.println("Hello Everybody");
-}
+		for(int i=1;i<5;i++){
+			System.out.println("Hi Everybody");
+		}
+	}
 }
